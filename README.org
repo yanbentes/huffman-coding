@@ -1,0 +1,30 @@
+* Huffman coding
+
+** What is huffman coding?
+   
+In computer science and information theory, a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression.
+The process of finding or using such a code proceeds by means of Huffman coding, an algorithm developed by David A. Huffman while he was a Sc.D. student at MIT, 
+and published in the 1952 paper "A Method for the Construction of Minimum-Redundancy Codes".
+
+More on Wikipedia [[https://en.wikipedia.org/wiki/Huffman_coding][Huffman coding]].
+
+** How to use the program
+
+First
+ #+begin_src bash
+git clone https://github.com/yanbentes/huffman-coding
+#+end_src
+
+Compile the program 
+
+#+begin_src bash
+g++ huffman.cpp -o huffman
+#+end_src
+
+Before executing create a .txt file and put the text that you want to code. After that execute
+
+#+begin_src bash
+./huffman
+#+end_src
+
+Enter with the file name that you want to code. The program will print the characters frequencies, their respective code and the final coding.  
