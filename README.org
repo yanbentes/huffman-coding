@@ -21,7 +21,7 @@ Compile the program
 g++ huffman.cpp -o huffman
 #+end_src
 
-Before executing create a .txt file and put the text that you want to code. After that execute
+Before executing create a .txt file with the text that you want to code. After that execute the program
 
 #+begin_src bash
 ./huffman
