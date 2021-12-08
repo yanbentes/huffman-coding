@@ -32,3 +32,5 @@ Enter with the file name that you want to code. The program will print the chara
 Exemple output
 
 [[./exemple.png]]
+
+...
