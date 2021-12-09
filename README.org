@@ -31,6 +31,12 @@ Enter with the file name that you want to code. The program will print the chara
 
 Exemple output
 
-[[./exemple.png]]
+| char | freq |      code |
+|      |   68 |       110 |
+| ,    |    4 |    000000 |
+| i    |    4 |  01100111 |
+| D    |    1 | 011010110 |
+| ...  |  ... |       ... |
+|      |      |           |
 
-...
+01101011001100111...
