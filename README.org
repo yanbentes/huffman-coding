@@ -22,13 +22,13 @@ Compile the program
 g++ huffman.cpp -o huffman
 #+end_src
 
-Before executing create a .txt file with the text that you want to code. After that execute the program
+Before executing create a .txt file with the text that you want to assign codes. After that execute the program
 
 #+begin_src bash
 ./huffman
 #+end_src
 
-Enter with the file name that you want to code. The program will print the characters frequencies, their respective code and the final coding.  
+Enter with the file name that you want to assign codes. The program will print the characters frequencies, their respective code and the final coding.  
 
 Exemple output
 
